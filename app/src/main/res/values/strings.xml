@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Galeria</string>
+    <string name="nombreArt">%n</string>
+    <string name="anio">%s</string>
+</resources>
